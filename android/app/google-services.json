@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562608639503",
+    "project_id": "corat-441ee",
+    "storage_bucket": "corat-441ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562608639503:android:16411981dda59b9c141d7a",
+        "android_client_info": {
+          "package_name": "mx.gob.corat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-v2V_u542HJyo0jhZu_bpD3mIeIQJV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
